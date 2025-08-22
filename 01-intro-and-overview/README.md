@@ -6,7 +6,7 @@
 
 # First week Objectives
 
-* Midterm and Final exam dates in [Syallabus](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md)
+* Midterm and Final exam dates in [Syllabus](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md)
 * Define Cyberspace
 * Define Information Security (CIA triad)
 * Define Cyber Security
